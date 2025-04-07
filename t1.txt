@@ -1,1 +1,1 @@
-Python is a compiler
+Python is a Interpreter
